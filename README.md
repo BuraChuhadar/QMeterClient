@@ -1,0 +1,2 @@
+# QMeterClient
+QMeter Core Client
